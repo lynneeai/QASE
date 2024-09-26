@@ -1,0 +1,15 @@
+accelerate==0.23.0
+bitsandbytes==0.41.1
+datasets==2.14.5
+evaluate==0.4.1
+huggingface_hub==0.16.4
+lightning==2.0.7
+numpy==1.26.0
+peft==0.5.0
+python-dotenv==1.0.0
+scipy==1.11.2
+tensorboard==2.14.0
+torch==2.0.1
+torchmetrics==1.1.0
+tqdm==4.66.1
+transformers==4.30.0
