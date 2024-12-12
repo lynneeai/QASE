@@ -1,6 +1,6 @@
 # QASE
 
-### This is the official repository of the EMNLP 2024 paper: [Enhancing Pre-Trained Generative Language Models with Question Attended Span Extraction on Machine Reading Comprehension](https://arxiv.org/pdf/2404.17991).
+### This is the official repository of the EMNLP 2024 paper: [Enhancing Pre-Trained Generative Language Models with Question Attended Span Extraction on Machine Reading Comprehension](https://aclanthology.org/2024.emnlp-main.560/).
 
 
 ### Enviornment Setup
